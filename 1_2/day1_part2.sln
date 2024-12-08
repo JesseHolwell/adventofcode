@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "aoc2", "aoc2", "{B1AA6381-8A82-4935-BE75-EFB80103AFF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "part2", "aoc2\part2\part2.csproj", "{3790CD3F-9228-4F6A-8D70-9E0C4F0B40C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day1_part2", "aoc2\day1_part2\day1_part2.csproj", "{3790CD3F-9228-4F6A-8D70-9E0C4F0B40C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
