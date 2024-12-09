@@ -5,10 +5,10 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "C#: day2_part2 Debug",
+      "name": "C#: part4 Debug",
       "type": "dotnet",
       "request": "launch",
-      "projectPath": "${workspaceFolder}/aoc2/day2_part2/day2_part2.csproj"
+      "projectPath": "${workspaceFolder}/4/part4/part4.csproj"
     }
   ]
 }
